@@ -1,0 +1,10 @@
+name: harness-lab
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - ruff==0.15.2
+      - pytest==9.0.2
+      - mypy==1.19.1
