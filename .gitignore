@@ -5,6 +5,8 @@ venv/
 # Python cache
 __pycache__/
 *.py[cod]
+*.pyc
+*.pyo
 
 # Tool caches
 .mypy_cache/
