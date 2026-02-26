@@ -27,6 +27,11 @@ python -m pip install --upgrade pip
 pip install -r requirements-dev.txt
 ```
 
+`requirements-dev.txt` includes core checks (`ruff`, `pytest`, `mypy`) and Scenario 3
+dependencies (`torch`, `numpy`).
+
+If you are offline, keep the requirements update in version control and run install later when network access is available.
+
 ### Option B: `conda`
 
 ```bash

@@ -14,6 +14,7 @@ This is the repository system of record. Start here, then branch to the minimum 
 ## Operations
 - Environment bootstrap runbook: [`docs/runbooks/bootstrap.md`](runbooks/bootstrap.md)
 - Local debugging runbook: [`docs/runbooks/debugging.md`](runbooks/debugging.md)
+- FEM pipeline runbook: [`docs/runbooks/fem-pipeline.md`](runbooks/fem-pipeline.md)
 - Release/version/rollback runbook: [`docs/runbooks/release.md`](runbooks/release.md)
 
 ## Execution Plans
